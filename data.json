@@ -1,0 +1,7 @@
+{
+  "item": [
+    {"id": 1, "info": "apply", "checked": false},
+    {"id": 2, "info": "banan", "checked": true},
+    {"id": 2, "info": "mango", "checked": false}
+    ]
+}
